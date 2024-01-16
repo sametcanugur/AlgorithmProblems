@@ -13,7 +13,6 @@ public class ADayattheMarket {
 			return "Will";
 		} else {
 			return "Tie";
-		}
+		}///
 	}
-	
 }
